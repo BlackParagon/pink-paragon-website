@@ -1,0 +1,28 @@
+html, body {
+  overflow: hidden;
+  padding: 0px !important;
+  margin: 0 !important;
+}
+
+.card {
+  height: 100vh;
+  width: 100vw;
+  background-color: ffb1fe;
+}
+
+.card img {
+  max-width: 100vw;
+  margin-top: 25vh;
+}
+
+.card h1 {
+  font-weight: bold;
+  text-align: center;
+  margin-top: 2rem;
+  font-family: 'Roboto', sans-serif;
+}
+
+.card h1 a {
+  color: black !important;
+  text-decoration: none;
+}
